@@ -17,6 +17,7 @@
   height: 150px;
   border-radius: 20%;     /* makes it circular */
   object-fit: cover;      /* keeps image from stretching */
+  margin-right:15px;
 }
   
 
