@@ -3,3 +3,16 @@
   color: white;
   padding: 50px 20px;
 }
+
+.about {
+  display: flex;          /* text and image side by side */
+  align-items: center;    /* vertical alignment */
+  gap: 20px;              /* space between image and text */
+}
+
+.about img {
+  width: 150px;           /* size of the circle */
+  height: 150px;
+  border-radius: 50%;     /* makes it circular */
+  object-fit: cover;      /* keeps image from stretching */
+}
