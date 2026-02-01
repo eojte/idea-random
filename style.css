@@ -15,7 +15,7 @@
 .hero img {
   width: 150px;           /* size of the circle */
   height: 150px;
-  border-radius: 50%;     /* makes it circular */
+  border-radius: 10%;     /* makes it circular */
   object-fit: cover;      /* keeps image from stretching */
 }
   
