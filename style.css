@@ -8,7 +8,7 @@
 .hero {
   display: flex;          /* text and image side by side */
   align-items: center;    /* vertical alignment */
-  gap: 5px;              /* space between image and text */
+  gap: 0px;              /* space between image and text */
 }
 
 .hero img {
