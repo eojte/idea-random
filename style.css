@@ -2,6 +2,14 @@
   background-color: #001f4d; /* dark blue */
   color: white;
   padding: 50px 20px;
+
+}
+
+.hero img {
+  width: 150px;           /* size of the circle */
+  height: 150px;
+  border-radius: 50%;     /* makes it circular */
+  object-fit: cover;      /* keeps image from stretching */
 }
 
 .about {
@@ -10,9 +18,4 @@
   gap: 20px;              /* space between image and text */
 }
 
-.about img {
-  width: 150px;           /* size of the circle */
-  height: 150px;
-  border-radius: 50%;     /* makes it circular */
-  object-fit: cover;      /* keeps image from stretching */
-}
+
