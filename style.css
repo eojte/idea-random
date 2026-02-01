@@ -14,7 +14,6 @@
   display: flex;          /* text and image side by side */
   align-items: center;/* vertical alignment */
   justify-content: flex-start;  
-  margin-right: 10px
 }
 
 .hero img {
