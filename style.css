@@ -9,13 +9,13 @@
   display: flex;          /* text and image side by side */
   align-items: center;/* vertical alignment */
   justify-content: flex-start;
-  margin: 0;             /* space between image and text */
+           
 }
 
 .hero img {
   width: 150px;           /* size of the circle */
   height: 150px;
-  border-radius: 10%;     /* makes it circular */
+  border-radius: 20%;     /* makes it circular */
   object-fit: cover;      /* keeps image from stretching */
 }
   
