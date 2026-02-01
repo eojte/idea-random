@@ -5,6 +5,12 @@
 
 }
 
+.hero {
+  display: flex;          /* text and image side by side */
+  align-items: center;    /* vertical alignment */
+  gap: 20px;              /* space between image and text */
+}
+
 .hero img {
   width: 150px;           /* size of the circle */
   height: 150px;
@@ -12,10 +18,6 @@
   object-fit: cover;      /* keeps image from stretching */
 }
 
-.about {
-  display: flex;          /* text and image side by side */
-  align-items: center;    /* vertical alignment */
-  gap: 20px;              /* space between image and text */
-}
+
 
 
