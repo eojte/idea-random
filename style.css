@@ -1,13 +1,14 @@
 .hero {
   background-color: #001f4d; /* dark blue */
   color: white;
-  padding: 40px 10px;
+  padding: 40px 20px;
 
 }
 
 .hero {
   display: flex;          /* text and image side by side */
-  align-items: center;    /* vertical alignment */
+  align-items: center;/* vertical alignment */
+  justify-content: flex-start;
   gap: 0px;              /* space between image and text */
 }
 
@@ -17,7 +18,7 @@
   border-radius: 50%;     /* makes it circular */
   object-fit: cover;      /* keeps image from stretching */
 }
-
+  
 
 
 
