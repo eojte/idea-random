@@ -1,1 +1,5 @@
-
+.hero {
+  background-color: #001f4d; /* dark blue */
+  color: white;
+  padding: 50px 20px;
+}
