@@ -1,15 +1,14 @@
 .hero {
   background-color: #001f4d; /* dark blue */
   color: white;
-  padding: 40px 20px;
+  padding: 10px 20px;
 
 }
 
 .hero {
   display: flex;          /* text and image side by side */
   align-items: center;/* vertical alignment */
-  justify-content: flex-start;
-  margin-left: 15px;           
+  justify-content: flex-start;       
 }
 
 .hero img {
