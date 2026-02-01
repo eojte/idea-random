@@ -9,7 +9,7 @@
   display: flex;          /* text and image side by side */
   align-items: center;/* vertical alignment */
   justify-content: flex-start;
-           
+  margin-left: 15;           
 }
 
 .hero img {
@@ -17,7 +17,7 @@
   height: 150px;
   border-radius: 20%;     /* makes it circular */
   object-fit: cover;      /* keeps image from stretching */
-  margin-right:15px;
+  
 }
   
 
